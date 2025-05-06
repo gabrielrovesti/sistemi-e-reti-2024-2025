@@ -16,9 +16,9 @@ Il corso di Sistemi e Reti si propone di:
 ## 📂 Struttura del repository
 
 ### `/Appunti Completi/`
-Riassunti esaustivi del corso per entrambe le classi:
-- Appunti Completi Sistemi e Reti 3D 2024-2025.pdf
-- Appunti Completi Sistemi e Reti 4D 2024-2025.pdf
+Riassunti esaustivi del corso per entrambe le classi in formato Markdown e PDF.
+- **3D**: Materiale per il corso di Terza (12 alunni)
+- **4D**: Materiale per il corso di Quarta (19 alunni)
 
 ### `/Calendario e Orario 24-25/`
 Documenti organizzativi per l'anno scolastico:
@@ -155,6 +155,7 @@ Il percorso di apprendimento è monitorato attraverso:
 - Il materiale è stato costantemente aggiornato durante l'anno scolastico (tramite piattaforma OneDrive istituzionale, con cui la scuola è convenzionata)
 - Questo materiale, esclusi i riferimenti, è di creazione originale. Non avendo avuto nessun riferimento di nessun tipo del materiale precedente e/o una guida degli argomenti, ho creato da zero il programma durante tutto l'anno del corso. Il materiale pertanto risulta certamente molto completo, anche troppo, per questo tipo di classe (e di scuola). La soddisfazione c'è stata certamente da parte degli alunni, non certo da parte di colleghi o di scuola. 
 - Data la qualità del materiale, invito ad approfondire dando un occhio al materiale delle mie lezioni di tutorato in Triennale e Magistrale di Informatica a Padova (tipo di insegnamento per il quale mi sento certamente più adatto). E dove sono apprezzato e considerato visto l'immenso lavoro svolto anche là.
+- In quanto Tutor per l'Inclusione durante i miei anni accademici, ho realmente cercato di adattare programmi e contenuti alle singole situazioni didattiche (ben 14 situazioni didattiche personalizzate sul numero di alunni), considerando caso per caso e valutando opportunamente (ad-hoc / ad-personam). Esperienza pregressa e solidissima nel seguire situazioni particolarmente delicate di questo istituto (sulle mie spalle per anni), atto di impegno e sacrificio molto grande anche per la mia carriera.
 
 ## 📜 Licenza
 
