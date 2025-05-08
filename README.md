@@ -161,11 +161,10 @@ Il percorso di apprendimento è monitorato attraverso:
 
 Questo repository è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
 
-## 📜 Riferimenti ufficiali terzi
+## 🔖 Riferimenti ufficiali terzi
 
 - [Sito ufficiale scuola](https://www.gferraris.it/newsite/)
 - [Appunti di lezioni e materiale dei corsi del Ferraris del Prof. Pistorio](https://www.gianpi.eu/GFERRARIS/startHOME/)
-- 
 
 ---
 
