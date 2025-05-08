@@ -21,14 +21,14 @@ Riassunti esaustivi del corso per entrambe le classi in formato Markdown e PDF.
 - **4D**: Materiale per il corso di Quarta (19 alunni)
 
 ### `/Calendario e Orario 24-25/`
-Documenti organizzativi per l'anno scolastico:
+Documenti organizzativi per l'anno scolastico, avendo l'orario intero a disposizione e il calendario nel sito di istituto:
 - calendario.pdf
 - orario.pdf
 
 ### `/Corsi sicurezza/`
 Materiale formativo sulla sicurezza:
-- **Certificazioni**: Documentazione ufficiale sui corsi di sicurezza
-- **Slide**: Presentazioni utilizzate durante i corsi
+- **Certificazioni**: Documentazione ufficiale sui corsi di sicurezza realizzate per obbligo certificazione prof. (terzo corso "utilissimo" della vita)
+- **Slide**: Per evitare futuro supplizio ad altri docenti
 
 ### `/Materiale di Studio - OneDrive/`
 Organizzato per classe e trimestre:
@@ -73,7 +73,7 @@ Organizzato per classe e trimestre:
 ### `/Programmazioni e Programmi 24-25/`
 Documentazione ufficiale:
 - **Programmazioni**: Pianificazione didattica per l'anno corrente
-- **Programmi definitivi**: Contenuti effettivi trattati durante l'anno
+- **Programmi definitivi**: Contenuti effettivi trattati durante l'anno (basati su lezioni precedenti del prof. Burattin)
 
 ## 📚 Programma del corso
 
@@ -153,13 +153,19 @@ Il percorso di apprendimento è monitorato attraverso:
 - Gli appunti completi forniscono una sintesi dell'intero programma, ma non sostituiscono la partecipazione attiva alle lezioni
 - Le guide allo studio sono pensate per facilitare la preparazione alle verifiche e alle interrogazioni
 - Il materiale è stato costantemente aggiornato durante l'anno scolastico (tramite piattaforma OneDrive istituzionale, con cui la scuola è convenzionata)
-- Questo materiale, esclusi i riferimenti, è di creazione originale. Non avendo avuto nessun riferimento di nessun tipo del materiale precedente e/o una guida degli argomenti, ho creato da zero il programma durante tutto l'anno del corso. Il materiale pertanto risulta certamente molto completo, anche troppo, per questo tipo di classe (e di scuola). La soddisfazione c'è stata certamente da parte degli alunni, non certo da parte di colleghi o di scuola. 
+- Questo materiale, esclusi i riferimenti, è di creazione originale. Non avendo avuto nessun riferimento di nessun tipo del materiale precedente e/o una guida degli argomenti, ho creato da zero il programma durante tutto l'anno del corso. Il materiale pertanto risulta certamente molto completo, anche troppo, per questo tipo di classe (e di scuola). La soddisfazione è stata principalmente mia, rimanendo un programma vasto e che tocca molti aspetti di tutta l'informatica. Ritengo credibile fornirlo pubblicamente, fornendomi magari maggiore soddisfazione e visibilità di quanta considerazione abbia avuto qui. Il valore parla da solo in modo oggettivo.
 - Data la qualità del materiale, invito ad approfondire dando un occhio al materiale delle mie lezioni di tutorato in Triennale e Magistrale di Informatica a Padova (tipo di insegnamento per il quale mi sento certamente più adatto). E dove sono apprezzato e considerato visto l'immenso lavoro svolto anche là.
 - In quanto Tutor per l'Inclusione durante i miei anni accademici, ho realmente cercato di adattare programmi e contenuti alle singole situazioni didattiche (ben 14 situazioni didattiche personalizzate sul numero di alunni), considerando caso per caso e valutando opportunamente (ad-hoc / ad-personam). Esperienza pregressa e solidissima nel seguire situazioni particolarmente delicate di questo istituto (sulle mie spalle per anni), atto di impegno e sacrificio molto grande anche per la mia carriera.
 
 ## 📜 Licenza
 
 Questo repository è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
+
+## 📜 Riferimenti ufficiali terzi
+
+- [Sito ufficiale scuola](https://www.gferraris.it/newsite/)
+- [Appunti di lezioni e materiale dei corsi del Ferraris del Prof. Pistorio](https://www.gianpi.eu/GFERRARIS/startHOME/)
+- 
 
 ---
 
