@@ -1,7 +1,11 @@
 Valutazioni 4D:
 
-- Coccato: 8 e mezzo
-- Casarola: 8
-- Baldan: 8
-- Capuzzo: 8
-- Vittadello: 8
+- Coccato: 8 e mezzo (includere un più)
+- Casarola: 8 (includere un più)
+- Baldan: 8 (includere un più)
+- Capuzzo: 8 (includere un più)
+- Vittadello: 8 (includere un più)
+- Pizzinato: 8 e mezzo (includere un più)
+- Bolla: 8 (includere un più)
+- Tasca: 8 (includere un più)
+- Grassetto: 8 (includere un più)
