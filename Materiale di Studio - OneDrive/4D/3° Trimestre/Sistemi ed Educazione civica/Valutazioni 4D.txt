@@ -9,3 +9,4 @@ Valutazioni 4D:
 - Bolla: 8 (includere un più)
 - Tasca: 8 (includere un più)
 - Grassetto: 8 (includere un più)
+- Albertin: 8 (includere un più)
