@@ -2,7 +2,7 @@
 
 ## Entro sabato (Da includere un più)
 
-- Albertin: 8+
+- Albertin: 8
 - Baldan: 8
 - Bolla: 8
 - Capuzzo: 8
@@ -20,9 +20,9 @@
 ## Post sabato (nessun più)
 
 - Cremonese: 7 e mezzo
+- Canevarolo: 8
 
 ## Mancanti
 
-- Canevarolo
 - Cecchinato
 - Gallinaro
