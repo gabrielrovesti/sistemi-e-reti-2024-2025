@@ -12,8 +12,9 @@
 
 ## Post sabato (nessun più)
 
+- Chirico: 7 e mezzo
+
 ## Mancanti
 
-- Chirico (impegni, mi ha scritto mail)
 - Coseru
 - Tiengo

@@ -21,8 +21,9 @@
 
 - Cremonese: 7 e mezzo
 - Canevarolo: 8
+- Cecchinato: 8
 
 ## Mancanti
 
-- Cecchinato
+
 - Gallinaro
