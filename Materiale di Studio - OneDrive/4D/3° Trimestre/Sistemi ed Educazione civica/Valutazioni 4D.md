@@ -7,7 +7,7 @@
 - Bolla: 8
 - Capuzzo: 8
 - Casarola: 8
-- Coccato: 8+
+- Coccato: 8
 - Grassetto: 8
 - Pizzinato: 8 e mezzo
 - Rigattieri: 8 e mezzo
@@ -22,6 +22,7 @@
 - Cremonese: 7 e mezzo
 - Canevarolo: 8
 - Cecchinato: 8
+- Pani: 8
 
 ## Mancanti
 
