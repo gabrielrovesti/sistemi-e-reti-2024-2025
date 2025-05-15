@@ -3,12 +3,12 @@
 ## Entro sabato (Da includere un più)
 
 - Corsini: 7
-- Fanton: 7 e mezzo
-- Loriggiola: 7 e mezzo
-- Maretto: 8
+- Fanton: 7 e mezzo -> 8-
+- Loriggiola: 7 e mezzo -> 8
+- Maretto: 8 -> 8 e mezzo
 - Mazzucato: 8 e mezzo
 - Mihalache: 7 e mezzo
-- Nordio: 7 e mezzo
+- Nordio: 7 e mezzo -> 7
 
 ## Post sabato (nessun più)
 
