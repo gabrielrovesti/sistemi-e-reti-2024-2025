@@ -13,9 +13,9 @@
 ## Post sabato (nessun più)
 
 - Chirico: 7 e mezzo
+- Cassanego: 7 e mezzo
 
 ## Mancanti
 
 - Coseru
 - Tiengo
-- Cassanego
