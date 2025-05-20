@@ -4,13 +4,13 @@
 
 - Albertin: 8
 - Baldan: 8 -> 8 e mezzo
-- Bolla: 8
+- Bolla: 8 -> OK
 - Capuzzo: 8 -> 8+
 - Casarola: 8 -> 8 e mezzo
 - Coccato: 8 -> 8+
 - Grassetto: 8
-- Pizzinato: 8 e mezzo
-- Rigattieri: 8 e mezzo
+- Pizzinato: 8 e mezzo -> 9
+- Rigattieri: 8 e mezzo -> 9
 - Rigoni: 8 e mezzo
 - Serban: 8 e mezzo
 - Tasca: 8
