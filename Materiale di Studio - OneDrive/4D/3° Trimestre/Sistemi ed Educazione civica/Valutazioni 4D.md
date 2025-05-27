@@ -19,10 +19,10 @@
 
 ## Post sabato (nessun più)
 
-- Cremonese: 7 e mezzo
-- Canevarolo: 8
-- Cecchinato: 8
-- Pani: 8
+- Cremonese: 7 e mezzo -> OK
+- Canevarolo: 8 -> OK
+- Cecchinato: 8 -> OK
+- Pani: 8 -> 8 e mezzo
 
 ## Mancanti
 
