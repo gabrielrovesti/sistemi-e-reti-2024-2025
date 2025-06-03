@@ -17,5 +17,5 @@
 
 ## Mancanti
 
-- Coseru
+- Coseru -> 8
 - Tiengo
